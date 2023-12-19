@@ -18,7 +18,7 @@ numpy==1.21.0
 - CelebA
 - Imagenet
 
-Notice that currently, we only provide code for Mnist dataset, and we will release code for other datasets soon. 
+In this repository, we provide a demonstration for MNIST and will release all the code for other datasets.
 
 There is no need to download datasets, and they will automatically be downloaded when running the code.
 
