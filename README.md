@@ -23,7 +23,7 @@ Notice that currently, we only provide code for Mnist dataset, and we will relea
 There is no need to download datasets, and they will automatically be downloaded when running the code.
 
 ## Pretrained Model 
-The pretrained model of vqvae on the 4 datasets soon.
+The pretrained model of vqvae on the 4 datasets will be uploaded soon.
 
 ## Usage
 ### Train Vqvae
